@@ -1,10 +1,7 @@
 # DATE:28.01.26
 
-#  Mean and variance of a discrete  distribution
-```
-## name:-k hemanth yadav
-## reg:- 212224100033
-```
+# ex1:  Mean and variance of a discrete  distribution
+
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
